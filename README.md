@@ -32,7 +32,7 @@ Excel SQL Python Power BI Tableau Jupyter NumPy Pandas Matplotlib Seaborn Scikit
 - **Machine Learning**: Implementing regression models, applying clustering techniques, performing feature selection, and evaluating model performance
 - **Business Acumen**: Understanding and defining Key Performance Indicators (KPIs), translating business problems into analytical frameworks, providing data-driven recommendations, and identifying opportunities for process optimization
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
 https://www.linkedin.com/in/pranathisarma/
 
