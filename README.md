@@ -37,4 +37,4 @@ Excel SQL Python Power BI Tableau Jupyter NumPy Pandas Matplotlib Seaborn Scikit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranathisarma/)
 
 ##  📄 My CV
-[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](______)
+[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1xXkzdDFWPFVOaSmNmQEN-5yKzfGhjH0K/view?usp=drive_link)
