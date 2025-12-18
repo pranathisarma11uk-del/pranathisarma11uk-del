@@ -11,7 +11,7 @@ I'm a detail-oriented Data Analyst, passionate about transforming raw data into 
 
 - Building my data analytics portfolio one project at a time
 - Data Analytics Intern @ Uptrail
-- Seeking entry-level data analyst opportunities for hands-on experience
+- Seeking  Data Analyst opportunities in the UK
 
 ## 🛠️ Tools and Technologies
 
