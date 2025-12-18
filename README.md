@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pranathi!
 
-I'm a detail-oriented Data Analyst with an MSc in Business Analytics, passionate about transforming raw data into actionable insights and predictive solutions.
+I'm a detail-oriented Data Analyst, passionate about transforming raw data into actionable insights and predictive solutions.
 ## About Me
 
 - 🎓 MSc Business Analytics | Aston University
