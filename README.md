@@ -18,11 +18,6 @@ I'm a detail-oriented Data Analyst, passionate about transforming raw data into 
 
 ### 📈 [Uptrail Internship: Data Analytics Projects](https://github.com/pranathisarma11uk-del/Uptrial-Data-Analyst-Internship-Projects)
 
-4. **Executive Dashboard Development** - Data Visualization
-   - Built interactive Tableau dashboard with 6 visualizations
-   - Established key metrics: customer lifetime value, profit modeling, product performance
-   - Delivered strategic recommendations for **2025 planning and executive decision-making**
-
 ## 🛠️ Tools and Technologies
 
 <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="55" height="55"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40"/> <img src="https://img.icons8.com/fluent/48/000000/jupyter.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/numpy.png" width="40" height="40"/><img src="https://img.icons8.com/color/48/000000/pandas.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="40" height="40"/> <img width="40" height="40" alt="seaborn" src="https://github.com/user-attachments/assets/0f6e29fa-0e5f-43d5-bf3d-351bcb117dcb" />
