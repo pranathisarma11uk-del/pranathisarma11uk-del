@@ -13,6 +13,41 @@ I'm a detail-oriented Data Analyst, passionate about transforming raw data into 
 - Data Analytics Intern @ Uptrail
 - Seeking  Data Analyst opportunities in the UK
 
+## Featured Projects
+### 🔮 [Customer Churn Prediction](https://github.com/pranathisarma11uk-del/Customer-Churn-Analysis-Using-Machine-Learning)
+**Python | Machine Learning | Business Strategy**
+- **Problem:** Predicted telecom customer attrition to enable proactive retention
+- **Solution:** Built and compared Logistic Regression, Random Forest, and XGBoost models
+- **Results:** 79% accuracy; identified contract type as #1 churn driver; developed 3 customer segments for targeted marketing
+- **Tech:** Python (Pandas, Scikit-learn, XGBoost), Jupyter, Matplotlib
+
+### 📈 [Uptrail Internship: Data Analytics Projects](https://github.com/pranathisarma11uk-del/Uptrial-Data-Analyst-Internship-Projects)
+**Python | Tableau | Predictive Analytics | Business Intelligence**
+
+**Four end-to-end projects analyzing real business challenges:**
+
+1. **Analyzing SaaS User Behaviour** - Data Quality & Segmentation
+   - Analyzed 300+ customer records with Python/Pandas to identify business trends
+   - Discovered **36-45 age group** has **76.6% premium plan selection** (most valuable segment)
+   - Identified critical onboarding issues for Basic plan users in Western region
+
+2. **E-commerce Sales Performance Analysis** - Revenue Optimization
+   - Cleaned, merged, and analyzed 3 business datasets (sales, products, customers)
+   - Found **cleaning products generate 32% of total revenue**
+   - Identified **Gold-tier customers contribute 44% of revenue** despite similar customer counts
+   - Uncovered **35-43% late delivery rates** across regions
+
+3. **Predictive Churn Analysis & Retention Strategy** - Machine Learning
+   - Engineered predictive features and analyzed 1,500 users with Python
+   - Built Logistic Regression/Random Forest models achieving **53.2% ROC-AUC**
+   - Discovered **promotions reduce churn by 3.7%**, UK has highest churn (27.1%)
+   - Developed retention roadmap projected to **reduce cancellations by 4%**
+
+4. **Executive Dashboard Development** - Data Visualization
+   - Built interactive Tableau dashboard with 6 visualizations
+   - Established key metrics: customer lifetime value, profit modeling, product performance
+   - Delivered strategic recommendations for **2025 planning and executive decision-making**
+
 ## 🛠️ Tools and Technologies
 
 <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="55" height="55"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40"/> <img src="https://img.icons8.com/fluent/48/000000/jupyter.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/numpy.png" width="40" height="40"/><img src="https://img.icons8.com/color/48/000000/pandas.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="40" height="40"/> <img width="40" height="40" alt="seaborn" src="https://github.com/user-attachments/assets/0f6e29fa-0e5f-43d5-bf3d-351bcb117dcb" />
