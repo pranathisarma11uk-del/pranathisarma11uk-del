@@ -15,33 +15,8 @@ I'm a detail-oriented Data Analyst, passionate about transforming raw data into 
 
 ## Featured Projects
 ### 🔮 [Customer Churn Prediction](https://github.com/pranathisarma11uk-del/Customer-Churn-Analysis-Using-Machine-Learning)
-**Python | Machine Learning | Business Strategy**
-- **Problem:** Predicted telecom customer attrition to enable proactive retention
-- **Solution:** Built and compared Logistic Regression, Random Forest, and XGBoost models
-- **Results:** 79% accuracy; identified contract type as #1 churn driver; developed 3 customer segments for targeted marketing
-- **Tech:** Python (Pandas, Scikit-learn, XGBoost), Jupyter, Matplotlib
 
 ### 📈 [Uptrail Internship: Data Analytics Projects](https://github.com/pranathisarma11uk-del/Uptrial-Data-Analyst-Internship-Projects)
-**Python | Tableau | Predictive Analytics | Business Intelligence**
-
-**Four end-to-end projects analyzing real business challenges:**
-
-1. **Analyzing SaaS User Behaviour** - Data Quality & Segmentation
-   - Analyzed 300+ customer records with Python/Pandas to identify business trends
-   - Discovered **36-45 age group** has **76.6% premium plan selection** (most valuable segment)
-   - Identified critical onboarding issues for Basic plan users in Western region
-
-2. **E-commerce Sales Performance Analysis** - Revenue Optimization
-   - Cleaned, merged, and analyzed 3 business datasets (sales, products, customers)
-   - Found **cleaning products generate 32% of total revenue**
-   - Identified **Gold-tier customers contribute 44% of revenue** despite similar customer counts
-   - Uncovered **35-43% late delivery rates** across regions
-
-3. **Predictive Churn Analysis & Retention Strategy** - Machine Learning
-   - Engineered predictive features and analyzed 1,500 users with Python
-   - Built Logistic Regression/Random Forest models achieving **53.2% ROC-AUC**
-   - Discovered **promotions reduce churn by 3.7%**, UK has highest churn (27.1%)
-   - Developed retention roadmap projected to **reduce cancellations by 4%**
 
 4. **Executive Dashboard Development** - Data Visualization
    - Built interactive Tableau dashboard with 6 visualizations
